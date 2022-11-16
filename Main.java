@@ -17,6 +17,5 @@ class Main {
         }
 
         System.out.println("Reversed Number: " + reversed);
-        System.out.println("Hello world!");
     }
 }
