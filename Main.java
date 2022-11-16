@@ -17,6 +17,6 @@ class Main {
         }
 
         System.out.println("Reversed Number: " + reversed);
-        System.out.println("this is a edit from teh child ");
+        
     }
 }
